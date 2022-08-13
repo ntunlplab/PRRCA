@@ -1,4 +1,4 @@
-# Peer Review and Rebuttal Counter-Arguments (PRRCA) dataset
+# Peer Review and Rebuttal Counter-Arguments (PRRCA) Dataset
 Dataset for the paper **Incorporating Peer Reviews and Rebuttal Counter-Arguments for Meta-Review Generation**.
 
 ## Content
@@ -186,7 +186,7 @@ example of item access by the json dictionary
 |2021  |     2208     |    5.62    |   35.73%   | 182.96|
 |**Total**|**6138** |    5.40    |   37.93%   |148.42|
 
-### Other Cited Corpus
+### Cited Corpus
 * Aspect Typology Label 
     * Paper - [Can We Automate Scientific Reviewing?](https://arxiv.org/pdf/2102.00176.pdf)
     * Link - [Dataset (Aspect Tagger)](https://github.com/neulab/ReviewAdvisor)
