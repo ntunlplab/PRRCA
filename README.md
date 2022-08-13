@@ -4,12 +4,12 @@ Dataset for the paper **Incorporating Peer Reviews and Rebuttal Counter-Argument
 ## Content
 - [Folder Structure](#Folder-Structure)
 - [ICLR_Submission](#ICLR_Submission)
-    - [Dataset Structure](#)
-    - [Instance](#)
+    - [Dataset Structure](#Dataset-Structure)
+    - [Instance](#Instance)
 - [MetaReview_Generation_Corpus](#MetaReview_Generation_Corpus)
-    - [Corpus Instance](#)
-    - [Dataset Analytic](#)
-    - [Other Cited Corpus](#)
+    - [Corpus Instance](#Corpus-Instance)
+    - [Dataset Analytic](#Dataset-Analytic)
+    - [Cited Corpus](#Cited-Corpus)
 
 ## Folder Structure
 ```
